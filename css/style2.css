@@ -1,0 +1,47 @@
+
+  
+.one-t a{
+	font-size: 15px;
+    font-weight: 400;
+    padding: 5px 15px;
+    display: inline-block;
+    border-radius: 30px; 
+    color: #fff !important;
+    text-decoration: none;
+    background: #55abcd;
+}
+ .one-title{
+	text-transform: capitalize;
+    line-height: 1.4em;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Raleway';
+}
+.con-vid{
+	padding-left: 20px;
+	padding-right: 20px;
+} 
+.time2{
+   font-size: 12px;
+    font-family: 'Raleway';
+    font-weight: bold;
+} 
+.reportbtn{
+     font-weight: bold !important ;
+     font-size: 12px !important;
+      padding: 6px 15px;border-radius: 20px !important; 
+      text-transform: uppercase !important;
+       text-decoration: none !important;
+        background-color: #FC624D !important;
+}
+.replybtn{
+    font-weight: bold !important;font-size: 12px !important; padding: 6px 15px !important;
+    border-radius: 20px !important; text-transform: uppercase !important; text-decoration: none !important; 
+    margin-right: 50% !important;
+}
+
+ .viewpdf{  
+          width: 100%;
+          height: 600px;
+          border: 1px solid rgba(0,0,0,.2);
+      }

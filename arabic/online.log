@@ -1,0 +1,2 @@
+[01-Oct-2020 08:55:07 GMT] PHP Warning:  include(count_hot_ads.php): failed to open stream: No such file or directory in C:\xampp\htdocs\fyi23\arabic\index.php on line 189
+[01-Oct-2020 08:55:07 GMT] PHP Warning:  include(): Failed opening 'count_hot_ads.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fyi23\arabic\index.php on line 189

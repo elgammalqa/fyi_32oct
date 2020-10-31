@@ -1,0 +1,5 @@
+[01-Oct-2020 10:10:36 GMT] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in C:\xampp\htdocs\fyi23\french\fyipanel\models\ads.model.php:171
+Stack trace:
+#0 C:\xampp\htdocs\fyi23\french\index.php(264): adsModel::get_ad_id('fyipanel/views/...', '10:10:00')
+#1 {main}
+  thrown in C:\xampp\htdocs\fyi23\french\fyipanel\models\ads.model.php on line 171

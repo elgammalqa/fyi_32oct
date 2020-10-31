@@ -1,0 +1,219 @@
+[19-Aug-2020 09:00:07 GMT] PHP Warning:  file_get_contents(http://www.nankainn.com/feed): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[19-Aug-2020 11:11:15 GMT] PHP Warning:  file_get_contents(http://www.nankainn.com/feed): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[19-Aug-2020 11:45:13 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[19-Aug-2020 11:45:13 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 05:51:02 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 05:51:02 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 05:51:02 GMT] PHP Warning:  file_get_contents(https://www.sanspo.com/rss/chumoku/news/allsports-n.xml): failed to open stream: operation failed in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 05:56:06 GMT] PHP Warning:  file_get_contents(https://wired.jp/rssfeeder/): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 06:10:59 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 06:10:59 GMT] PHP Warning:  file_get_contents(https://wired.jp/rssfeeder/): failed to open stream: operation failed in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 06:16:07 GMT] PHP Warning:  file_get_contents(https://wired.jp/rssfeeder/): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 06:16:59 GMT] PHP Warning:  file_get_contents(https://www.sankeibiz.jp/rss/news/world.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 191
+[20-Aug-2020 06:20:54 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 06:20:54 GMT] PHP Warning:  file_get_contents(https://wired.jp/rssfeeder/): failed to open stream: operation failed in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 11:16:15 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 11:16:15 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 11:16:15 GMT] PHP Warning:  file_get_contents(https://ubenippo.co.jp/feed/): failed to open stream: operation failed in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 11:31:16 GMT] PHP Warning:  file_get_contents(https://ubenippo.co.jp/feed/): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 12:06:24 GMT] PHP Warning:  file_get_contents(https://ubenippo.co.jp/feed/): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Aug-2020 12:50:31 GMT] PHP Warning:  file_get_contents(https://ubenippo.co.jp/feed/): failed to open stream: Connection refused in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Aug-2020 10:01:18 GMT] PHP Warning:  file_get_contents(https://otajo.jp/feed): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Aug-2020 10:06:24 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 10:16:23 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 10:36:26 GMT] PHP Warning:  file_get_contents(https://otajo.jp/feed): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Aug-2020 10:41:25 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 10:46:12 GMT] PHP Warning:  file_get_contents(https://otajo.jp/feed): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Aug-2020 10:47:20 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 11:01:19 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 11:06:30 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 11:16:21 GMT] PHP Warning:  file_get_contents(https://otajo.jp/feed): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Aug-2020 11:21:25 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 11:31:25 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[21-Aug-2020 11:36:33 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[22-Aug-2020 07:15:13 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[22-Aug-2020 07:15:13 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[22-Aug-2020 18:50:08 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[24-Aug-2020 12:15:03 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[24-Aug-2020 12:15:03 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_world.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[25-Aug-2020 03:07:04 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[25-Aug-2020 03:08:28 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[25-Aug-2020 12:20:22 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 191
+[25-Aug-2020 12:20:22 GMT] PHP Warning:  file_get_contents(https://www.fukuishimbun.co.jp/list/feed/rss): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 191
+[25-Aug-2020 12:51:28 GMT] PHP Warning:  file_get_contents(https://www.lifehacker.jp/feed/index.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[27-Aug-2020 10:46:16 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[27-Aug-2020 10:55:34 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[27-Aug-2020 11:11:21 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[27-Aug-2020 11:20:16 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[27-Aug-2020 11:25:40 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[27-Aug-2020 11:36:25 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[28-Aug-2020 06:55:43 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[28-Aug-2020 07:11:09 GMT] PHP Warning:  file_get_contents(http://feeds.feedburner.com/akita_news): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:07:04 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:09:18 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:11:16 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:12:39 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:16:20 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:17:59 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:21:22 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:22:50 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:26:39 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:28:25 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:31:21 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:32:43 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[05-Oct-2020 03:36:05 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[06-Oct-2020 13:10:17 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[06-Oct-2020 13:35:09 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[07-Oct-2020 00:00:14 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[07-Oct-2020 03:12:05 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[07-Oct-2020 03:13:18 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[07-Oct-2020 07:15:49 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[07-Oct-2020 07:15:49 GMT] PHP Warning:  file_get_contents(http://feeds.feedburner.com/akita_news): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 08:50:05 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_sports.xml): failed to open stream: No route to host in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 09:46:32 GMT] PHP Warning:  file_get_contents(https://www.gizmodo.jp/index.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 09:51:03 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_technology.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 09:52:03 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_sports.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 09:53:09 GMT] PHP Warning:  file_get_contents(https://www.sanspo.com/rss/flash/news/flash-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 09:54:15 GMT] PHP Warning:  file_get_contents(http://www.iza.ne.jp/feed/kiji/kiji-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 09:55:15 GMT] PHP Warning:  file_get_contents(https://www.zakzak.co.jp/rss/news/politics.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 09:56:06 GMT] PHP Warning:  file_get_contents(https://www.sanspo.com/rss/chumoku/news/allsports-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 09:57:31 GMT] PHP Warning:  file_get_contents(https://www.zakzak.co.jp/rss/news/sports.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:01:04 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_technology.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:02:04 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_sports.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:03:27 GMT] PHP Warning:  file_get_contents(http://www.iza.ne.jp/feed/kiji/kiji-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:04:29 GMT] PHP Warning:  file_get_contents(https://www.gizmodo.jp/index.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:05:30 GMT] PHP Warning:  file_get_contents(https://www.sankeibiz.jp/rss/news/life.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:06:03 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_sports.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:07:34 GMT] PHP Warning:  file_get_contents(https://www.sankeibiz.jp/rss/news/world.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:11:05 GMT] PHP Warning:  file_get_contents(https://www.sanspo.com/rss/chumoku/news/allsports-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:12:08 GMT] PHP Warning:  file_get_contents(https://wired.jp/rssfeeder/): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:13:21 GMT] PHP Warning:  file_get_contents(https://www.zakzak.co.jp/rss/news/life.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:16:03 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_sports.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:17:03 GMT] PHP Warning:  file_get_contents(https://www.sanspo.com/rss/chumoku/news/allsports-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:18:06 GMT] PHP Warning:  file_get_contents(https://wired.jp/rssfeeder/): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:19:29 GMT] PHP Warning:  file_get_contents(http://www.iza.ne.jp/feed/kiji/kiji-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:20:29 GMT] PHP Warning:  file_get_contents(https://www.zakzak.co.jp/rss/news/politics.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:21:03 GMT] PHP Warning:  file_get_contents(https://www.sanspo.com/rss/chumoku/news/allsports-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:21:29 GMT] PHP Warning:  file_get_contents(https://www.zakzak.co.jp/rss/news/sports.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:22:21 GMT] PHP Warning:  file_get_contents(http://www.iza.ne.jp/feed/kiji/kiji-n.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:22:29 GMT] PHP Warning:  file_get_contents(https://www.zakzak.co.jp/rss/news/life.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:23:23 GMT] PHP Warning:  file_get_contents(https://www.gizmodo.jp/index.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:23:29 GMT] PHP Warning:  file_get_contents(https://www.sankeibiz.jp/rss/news/world.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:24:23 GMT] PHP Warning:  file_get_contents(https://www.sankeibiz.jp/rss/news/infotech.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:24:31 GMT] PHP Warning:  file_get_contents(https://www.sankeibiz.jp/rss/news/life.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:25:24 GMT] PHP Warning:  file_get_contents(https://www.lifehacker.jp/feed/index.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:26:05 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_technology.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:27:05 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_sports.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:28:45 GMT] PHP Warning:  file_get_contents(https://www.zakzak.co.jp/rss/news/life.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:29:45 GMT] PHP Warning:  file_get_contents(https://www.sankeibiz.jp/rss/news/world.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:30:49 GMT] PHP Warning:  file_get_contents(https://www.lifehacker.jp/feed/index.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 191
+[08-Oct-2020 10:31:02 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_world.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 10:32:03 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_technology.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[08-Oct-2020 20:06:03 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:11:58 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:13:34 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:16:26 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:18:29 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:21:52 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:23:45 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:26:18 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:27:43 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:31:11 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 03:36:12 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 07:25:04 GMT] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 07:25:04 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 07:25:04 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_sports.xml): failed to open stream: operation failed in /home/fyipress/public_html/japanese/feed.php on line 115
+[09-Oct-2020 09:06:14 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[10-Oct-2020 02:27:52 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[10-Oct-2020 07:25:14 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[11-Oct-2020 00:10:12 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[12-Oct-2020 18:00:10 GMT] PHP Warning:  file_get_contents(http://www.nankainn.com/feed): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[13-Oct-2020 15:27:01 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[13-Oct-2020 15:28:56 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[13-Oct-2020 15:32:03 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[13-Oct-2020 15:33:53 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[13-Oct-2020 15:37:00 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[13-Oct-2020 15:38:31 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[14-Oct-2020 05:00:35 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_world.xml): failed to open stream: No route to host in /home/fyipress/public_html/japanese/feed.php on line 115
+[14-Oct-2020 05:01:35 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_technology.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/fyipress/public_html/japanese/feed.php on line 191
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  simplexml_load_string(): Entity: line 152: parser error : internal error: detected an error in element content in /home/fyipress/public_html/japanese/feed.php on line 195
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  simplexml_load_string(): ��本初上陸。突然の雨、食事中のソース汚れを気にせず、様 in /home/fyipress/public_html/japanese/feed.php on line 195
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  simplexml_load_string():                                                                                ^ in /home/fyipress/public_html/japanese/feed.php on line 195
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  simplexml_load_string(): Entity: line 152: parser error : Extra content at the end of the document in /home/fyipress/public_html/japanese/feed.php on line 195
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  simplexml_load_string(): ��本初上陸。突然の雨、食事中のソース汚れを気にせず、様 in /home/fyipress/public_html/japanese/feed.php on line 195
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  simplexml_load_string(): ^ in /home/fyipress/public_html/japanese/feed.php on line 195
+[14-Oct-2020 17:45:32 GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/fyipress/public_html/japanese/feed.php on line 208
+[14-Oct-2020 18:10:18 GMT] PHP Warning:  file_get_contents(https://www.fukuishimbun.co.jp/list/feed/rss): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/fyipress/public_html/japanese/feed.php on line 191
+[15-Oct-2020 08:31:02 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_technology.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[18-Oct-2020 05:45:21 GMT] PHP Warning:  file_get_contents(https://www.fukuishimbun.co.jp/list/feed/rss): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/fyipress/public_html/japanese/feed.php on line 191
+[18-Oct-2020 08:00:30 GMT] PHP Warning:  file_get_contents(https://logmi.jp/feed/public.xml): failed to open stream: HTTP request failed! HTTP/1.1 521 Origin Down
+ in /home/fyipress/public_html/japanese/feed.php on line 191
+[19-Oct-2020 01:21:32 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[19-Oct-2020 03:15:25 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/japanese/feed.php on line 115
+[19-Oct-2020 12:16:04 GMT] PHP Warning:  file_get_contents(https://news.nifty.com/rss/topics_world.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Oct-2020 02:11:11 GMT] PHP Warning:  file_get_contents(https://wired.jp/rssfeeder/): failed to open stream: Connection timed out in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Oct-2020 06:26:34 GMT] PHP Warning:  file_get_contents(https://www.kyodo.co.jp/feed/): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[20-Oct-2020 06:28:25 GMT] PHP Warning:  file_get_contents(https://www.tokyo-sports.co.jp/feed/): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:08:00 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:12:04 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:14:10 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:16:28 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:17:39 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:21:13 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:22:26 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:26:24 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:41:54 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:43:37 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:46:13 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:48:30 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:51:58 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:54:15 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:56:40 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 03:58:51 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:01:24 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:03:14 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:06:52 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:09:21 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:11:42 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:13:02 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:16:50 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:18:23 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:21:55 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:23:57 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:26:14 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:32:19 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:36:20 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:37:47 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:41:21 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:43:52 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:46:24 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:51:28 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:52:51 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:56:54 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 04:58:44 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:02:47 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:06:47 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:10:01 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:11:39 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:13:17 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:16:34 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:21:21 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:23:09 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:26:23 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:28:12 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/life.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115
+[21-Oct-2020 05:31:32 GMT] PHP Warning:  file_get_contents(http://www.zaikei.co.jp/rss/sections/it.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/japanese/feed.php on line 115

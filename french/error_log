@@ -1,0 +1,807 @@
+[18-Aug-2020 13:21:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[18-Aug-2020 20:05:02 GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/fyipress/public_html/french/tw_news.php on line 106
+[19-Aug-2020 04:00:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[19-Aug-2020 05:01:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[19-Aug-2020 08:28:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[19-Aug-2020 11:07:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[19-Aug-2020 11:07:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[19-Aug-2020 14:56:07 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[19-Aug-2020 15:42:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 05:57:02 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 05:57:17 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 05:57:33 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 05:57:47 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 05:58:52 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/monde/rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 05:59:59 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 05:59:59 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 05:59:59 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/sport/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:00:59 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:00:59 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:00:59 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/culture/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:01:02 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:01:19 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:01:43 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:02:48 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:02:48 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:02:48 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/monde/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:08:19 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:08:34 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:08:49 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:09:03 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:10:14 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/monde/rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:11:15 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:11:15 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:11:15 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/sport/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:12:15 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/culture/rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:16:51 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:17:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:17:21 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:17:35 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 06:18:47 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:18:47 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:18:47 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/monde/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:19:47 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/sport/rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:20:47 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/culture/rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 06:22:02 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 08:50:02 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 08:57:01 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 08:57:19 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 08:57:39 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 08:57:54 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[20-Aug-2020 08:58:59 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 08:58:59 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 08:58:59 GMT] PHP Warning:  file_get_contents(https://www.lepoint.fr/monde/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 15:28:21 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/238.xml): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 179
+[20-Aug-2020 21:12:12 GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/fyipress/public_html/french/tw_news.php on line 106
+[21-Aug-2020 05:28:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[21-Aug-2020 08:42:07 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[21-Aug-2020 08:42:08 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[22-Aug-2020 06:56:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[22-Aug-2020 09:14:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[22-Aug-2020 19:21:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 00:15:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 05:35:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 05:35:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 14:21:03 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 15:21:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 15:56:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 16:01:20 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[23-Aug-2020 16:01:20 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[23-Aug-2020 16:01:20 GMT] PHP Warning:  file_get_contents(https://www.courrierinternational.com/feed/all/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[23-Aug-2020 16:56:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 17:28:05 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 17:28:05 GMT] PHP Warning:  file_get_contents(https://www.mediapart.fr/articles/feed): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 103
+[23-Aug-2020 21:28:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 05:35:32 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 07:49:03 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 07:49:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 09:14:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 12:07:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 12:14:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 12:14:07 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 12:21:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 14:57:07 GMT] PHP Warning:  file_get_contents(https://www.lexpress.fr/rss/sport.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 15:21:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[24-Aug-2020 15:56:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 04:49:03 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 04:49:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 07:07:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 07:07:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 12:14:41 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[25-Aug-2020 12:14:41 GMT] PHP Warning:  file_get_contents(https://www.lequipe.fr/rss/actu_rss.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[25-Aug-2020 12:49:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 12:49:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 13:42:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 13:42:07 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[25-Aug-2020 18:21:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[26-Aug-2020 06:56:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[27-Aug-2020 21:28:13 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[27-Aug-2020 21:28:13 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[28-Aug-2020 03:21:12 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[28-Aug-2020 03:21:12 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[28-Aug-2020 05:14:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[28-Aug-2020 06:01:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[28-Aug-2020 06:15:19 GMT] PHP Warning:  file_get_contents(https://www.lequipe.fr/rss/actu_rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[28-Aug-2020 12:21:11 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[28-Aug-2020 12:21:12 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[28-Aug-2020 12:27:12 GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/fyipress/public_html/french/tw_news.php on line 106
+[05-Oct-2020 11:00:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[06-Oct-2020 06:07:08 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[06-Oct-2020 07:15:08 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[06-Oct-2020 07:15:08 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[06-Oct-2020 13:07:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[06-Oct-2020 15:57:22 GMT] PHP Warning:  file_get_contents(https://www.challenges.fr/high-tech/rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[06-Oct-2020 21:47:09 GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/fyipress/public_html/french/tw_news.php on line 106
+[07-Oct-2020 08:07:17 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[07-Oct-2020 08:07:32 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[08-Oct-2020 03:40:01 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[08-Oct-2020 03:40:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[08-Oct-2020 05:00:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[08-Oct-2020 05:00:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[08-Oct-2020 06:35:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 06:07:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 06:07:09 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 06:14:09 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Not Available
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 06:49:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 06:49:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 06:49:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 06:56:03 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 07:00:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[09-Oct-2020 16:00:20 GMT] PHP Warning:  file_get_contents(https://www.courrierinternational.com/feed/all/rss.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/french/feed.php on line 179
+[10-Oct-2020 02:56:12 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[10-Oct-2020 02:56:12 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[10-Oct-2020 03:28:14 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[10-Oct-2020 03:28:14 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[10-Oct-2020 03:28:14 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[10-Oct-2020 03:28:14 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/179.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[10-Oct-2020 12:35:09 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[11-Oct-2020 01:21:12 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[11-Oct-2020 01:21:12 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[11-Oct-2020 07:56:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[11-Oct-2020 07:56:08 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[11-Oct-2020 07:56:09 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[11-Oct-2020 12:00:01 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[11-Oct-2020 12:00:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[12-Oct-2020 02:35:16 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[12-Oct-2020 02:35:16 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[12-Oct-2020 02:40:04 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[12-Oct-2020 02:40:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[12-Oct-2020 03:30:01 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[12-Oct-2020 03:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[12-Oct-2020 10:08:33 GMT] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/fyipress/public_html/french/feed.php on line 179
+[12-Oct-2020 10:08:33 GMT] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/fyipress/public_html/french/feed.php on line 179
+[12-Oct-2020 10:08:33 GMT] PHP Warning:  file_get_contents(https://www.courrierinternational.com/feed/all/rss.xml): failed to open stream: operation failed in /home/fyipress/public_html/french/feed.php on line 179
+[12-Oct-2020 15:14:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[12-Oct-2020 15:14:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/essentiel/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[12-Oct-2020 18:49:17 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[12-Oct-2020 18:49:17 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[13-Oct-2020 04:21:17 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[13-Oct-2020 04:21:17 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[13-Oct-2020 08:49:17 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[13-Oct-2020 08:49:17 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[13-Oct-2020 10:21:07 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[13-Oct-2020 10:21:07 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[13-Oct-2020 11:42:10 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[13-Oct-2020 11:42:11 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[13-Oct-2020 14:36:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/french/feed.php on line 103
+[14-Oct-2020 07:14:03 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[14-Oct-2020 07:14:04 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[14-Oct-2020 10:14:25 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /home/fyipress/public_html/french/feed.php on line 179
+[14-Oct-2020 13:35:15 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[14-Oct-2020 15:14:03 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[15-Oct-2020 07:42:20 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/fyipress/public_html/french/feed.php on line 103
+[15-Oct-2020 08:00:01 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[15-Oct-2020 08:00:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[15-Oct-2020 11:14:08 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[16-Oct-2020 00:49:13 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[16-Oct-2020 00:49:13 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[16-Oct-2020 13:21:10 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[16-Oct-2020 13:21:11 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[16-Oct-2020 13:21:22 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[16-Oct-2020 13:21:22 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[16-Oct-2020 15:49:18 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[16-Oct-2020 15:49:18 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[16-Oct-2020 16:14:05 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/unes/sports/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[16-Oct-2020 16:14:06 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[16-Oct-2020 16:56:14 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[16-Oct-2020 16:56:14 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[17-Oct-2020 05:50:03 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[17-Oct-2020 05:50:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[17-Oct-2020 06:14:05 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 103
+[17-Oct-2020 06:14:05 GMT] PHP Warning:  file_get_contents(https://www.mediapart.fr/articles/feed): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 103
+[18-Oct-2020 01:30:01 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[18-Oct-2020 01:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[18-Oct-2020 18:05:01 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[18-Oct-2020 18:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 01:05:01 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 01:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 10:35:07 GMT] PHP Warning:  file_get_contents(https://www.sudouest.fr/culture/cinema/rss.xml): failed to open stream: HTTP request failed! HTTP/1.0 502 Bad Gateway
+ in /home/fyipress/public_html/french/feed.php on line 103
+[19-Oct-2020 12:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 12:55:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:00:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:05:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:10:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:15:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:20:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:35:05 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:40:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:50:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 13:55:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:00:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:05:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:15:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:25:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:40:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:50:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 14:55:05 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:15:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:20:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:25:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:40:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 15:55:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:40:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:50:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 16:55:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:10:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:25:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:40:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:45:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:50:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 17:55:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:00:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:10:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:20:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:25:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:30:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:40:05 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:50:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 18:55:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:00:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:20:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:40:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 19:55:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:00:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:15:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:40:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:45:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:50:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 20:55:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:00:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:05:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:10:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:15:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:20:05 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:25:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:40:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 21:55:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:10:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:15:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:40:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:45:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 22:55:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 23:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 23:05:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 23:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[19-Oct-2020 23:15:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 02:43:08 GMT] PHP Warning:  file_get_contents(https://www.lequipe.fr/rss/actu_rss.xml): failed to open stream: Connection timed out in /home/fyipress/public_html/french/feed.php on line 179
+[20-Oct-2020 06:42:18 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[20-Oct-2020 06:42:18 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[20-Oct-2020 08:42:13 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[20-Oct-2020 08:42:13 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[20-Oct-2020 17:49:06 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 103
+[20-Oct-2020 17:49:06 GMT] PHP Warning:  file_get_contents(https://www.mediapart.fr/articles/feed): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 103
+[20-Oct-2020 18:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:10:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:15:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:20:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:25:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:40:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:42:18 GMT] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[20-Oct-2020 18:42:18 GMT] PHP Warning:  file_get_contents(https://www.lapresse.ca/rss/216.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fyipress/public_html/french/feed.php on line 179
+[20-Oct-2020 18:45:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 18:55:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:15:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:25:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:30:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:35:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:40:05 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:45:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 19:55:05 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:10:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:20:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:25:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:30:06 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:35:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:40:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:45:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 20:55:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:10:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:25:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:30:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:40:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:45:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 21:55:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:00:07 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:10:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:25:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:35:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:40:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:45:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:50:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 22:55:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:00:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:10:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:15:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:40:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:45:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[20-Oct-2020 23:55:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:00:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:10:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:15:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:20:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:25:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:30:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:40:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:45:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:50:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 00:55:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:00:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:10:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:15:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:20:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:30:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:40:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:45:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:50:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 01:55:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:00:06 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:05:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:10:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:35:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:40:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:45:05 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:50:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 02:55:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:00:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:10:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:20:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:25:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:30:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:35:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:40:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:45:03 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:50:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 03:55:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 04:00:01 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 04:05:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 04:10:04 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 04:15:02 GMT] PHP Warning:  file_get_contents(https://newsapi.org/v2/top-headlines?country=fr&amp;category=general&amp;apiKey=4ecc940439d14a619505f5e25f197d5e): failed to open stream: HTTP request failed! HTTP/1.1 429 
+ in /home/fyipress/public_html/french/api_feed.php on line 122
+[21-Oct-2020 07:57:04 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/french/feed.php on line 103
+[21-Oct-2020 08:01:04 GMT] PHP Warning:  file_get_contents(http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml): failed to open stream: HTTP request failed!  in /home/fyipress/public_html/french/feed.php on line 103
